@@ -1,0 +1,30 @@
+manifestVersion: 1
+id: aiden-docspell
+name: Docspell
+tagline: Simple document organizer
+icon: https://docspell.org/icons/logo-only.svg
+category: Files
+version: "0.40.0"
+port: 7880
+description: >-
+  Add your app's description here.
+
+
+  You can also add newlines!
+
+developer: eikek
+website: https://docspell.org
+submitter: Aiden
+submission: https://github.com/eikek/docspell
+repo: https://github.com/eikek/docspell
+support: https://github.com/eikek/docspell/issues
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+releaseNotes: >-
+  Add what's new in the latest version of your app here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
